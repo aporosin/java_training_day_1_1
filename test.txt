@@ -1,0 +1,5 @@
+#Hello this is comment 123
+#Mon Oct 23 15:39:17 CEST 2017
+a=klucz a
+aaa=klucz aaa
+aa=klucz aa
